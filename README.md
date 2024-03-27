@@ -1,0 +1,3 @@
+- Hi, I’m @AdamPaicu
+- You can Identify me as "North", or "NorthDestiny".
+- I’m interested in AI development & Game design.
